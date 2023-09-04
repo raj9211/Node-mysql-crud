@@ -1,3 +1,3 @@
 # Node-mysql-crud
-run npm install or i
+run npm install and then 
 run npm start
